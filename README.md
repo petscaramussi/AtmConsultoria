@@ -53,5 +53,5 @@ MaterialPageRoute(builder: (context)=> Tela() ));
 
 # Imagens
 
-<img src="https://github.com/petscaramussi/AtmConsultoria/blob/main/imagens/ATMHome.jpg" style="width: 30%; height: 30%;">
-<img src="https://github.com/petscaramussi/AtmConsultoria/blob/main/imagens/ATMServicos.jpg" style="width: 30%; height: 30%;">
+<img src="https://github.com/petscaramussi/AtmConsultoria/blob/main/imagens/ATMHome.jpg" width="30%" hight="30%">
+<img src="https://github.com/petscaramussi/AtmConsultoria/blob/main/imagens/ATMServicos.jpg" width="30%" hight="30%">
