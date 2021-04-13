@@ -41,7 +41,8 @@ GestureDetector(
 ),
 ```
 
-Troca de Tela
+## Troca de Tela
+
 Como alterar entre diferentes telas em aplicativos em Flutter, pode ser usado o "Navigator.push"
 
 ```
